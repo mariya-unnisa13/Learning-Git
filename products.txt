@@ -1,0 +1,3 @@
+SKU001,Milk 4L,4.99,1
+SKU002,Bread,2.49,4
+SKU003,Eggs 12pcs,3.49,12

@@ -1,5 +1,7 @@
 #Functions that filter/sort data. These functions are used to process and manipulate data in various ways. Functions can take input parameters, perform operations on the data, and return the processed results. They can be used to filter data based on specific criteria, sort data in ascending or descending order, and perform other transformations as needed.
 
+#Search Logic
+
 articles = [
     {"sku": "00000104", "name": "Farmers Reg Milk 2L", "price": 4.99},
     {"sku": "00000140", "name": "Oat Milk 2L", "price": 5.29},
